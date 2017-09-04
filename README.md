@@ -1,2 +1,3 @@
 # hello-world
-Just aaa
+
+hubot!I'm a starter of Linux
